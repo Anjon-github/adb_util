@@ -1,0 +1,21 @@
+#apk包下载地址
+apkBaseUrl=http://test.hexin.cn/install/packages/41f0071fb2f44a9ec1e609ac7253ef85/
+
+#apk包名称，不包含 渠道名.apk
+apkBaseName=kaihu_V5.70.01_20170904_e6d4c50_
+
+#启动包名
+packageName=com.hexin.plat.kaihu
+
+#启动类型，要求android:exported=true
+activityName=com.hexin.plat.kaihu.activity.StartActivity
+
+#是否从本地读取apk包，不从远程下载
+loadFromLocal=false
+
+#是否仅下载apk包，不进行安装校验
+onlyDownload=false
+
+#安装完成，等待2秒进入
+sleepTime=2
+
