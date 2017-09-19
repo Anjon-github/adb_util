@@ -1,0 +1,8 @@
+.idea
+*.iml
+log.txt
+download
+channel_*
+out
+channel.txt
+config.txt
